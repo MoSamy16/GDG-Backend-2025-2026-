@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8"/>
+</head>
+<body>
+  <table border="1">
+<caption>TAPLE CAPTION </caption>
+<thead>
+<tr>
+  <th>YEAR</th>
+  <th>GROUP</th>
+  <th>LANGUAGE</th>
+  <th>DONE</th>
+  <th>PASSED</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td rowspan="5">2025</td>
+  <td rowspan="2">MO</td>
+  <td>HTML</td>
+  <td >YES</td>
+  </tr>
+<tr>
+  <td>CSS</td>
+  <td >YES</td>
+  </tr>
+  <tr>
+    <td rowspan="3">samy</td>
+    <td>JS</td>
+    <td >YES</td>
+    <td >NO</td>
+    </tr>
+    <tr>
+      <td>PHP</td>
+      <td>YES</td>
+      </tr>
+      <tr>
+        <td>PYTHON</td>
+        <td >NO</td>
+        <td >NO</td>
+        </tr>
+  </tbody>
+  </table>
+</body>
+
+</html>
+
