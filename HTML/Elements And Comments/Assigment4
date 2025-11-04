@@ -1,0 +1,16 @@
+< head>
+    <!-- Meta Tag
+         For Defining The Character Encoding -->
+    <meta charset="UTF-8" />
+    <!-- Meta Tag
+         For Controlling Page Width And Scaling On Mobile Devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Meta Tag
+         For Adding Page Description For Search Engines -->
+    <meta name="description" content="Learning HTML Basics" />
+    <!-- Meta Tag
+         For Specifying The Author Of The Page -->
+    <meta name="author" content=" Name" />
+</head>
+
+
