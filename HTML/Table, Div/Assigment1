@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="this is description for my first page">
+        <title>My First Page</title>
+        <style></style>
+        <script></script>
+
+    </head>
+    <body>
+        <table border="2" style="width:60%; height:60vh; border-collapse:collapse;" >
+            <caption>Members Data</caption>
+            <thead>
+                <tr>
+                    <th>Group</th>
+                    <th>Avatar</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Character</th>
+                    <th>Profile</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="2">Ninja</td>
+                    <td><img height="40" src="C:\MY-PROJECT-BOOK-STORE\img\IMG-20241214-WA0083.jpg" alt=""></td>
+                    <td>mohamed <br> samy</td>
+                    <td>m1@.mo <hr> m2@.mo</td>
+                    <td>&</td>
+                    <td><a href="https://www.facebook.com/share/14Ngu5zuS3s/">profile</a></td>
+                </tr>
+                <tr>
+                    <td><img height="40" src="C:\MY-PROJECT-BOOK-STORE\img\IMG-20241214-WA0083.jpg" alt=""></td>
+                    <td>ahmed <br>ali</td>
+                    <td>a@.df</td>
+                    <td>#</td>
+                    <td><a href="https://www.facebook.com/share/14Ngu5zuS3s/">profile</a></td>
+                </tr>
+                <tr>
+                    <td>mosters</td>
+                    <td><img height="40" src="C:\MY-PROJECT-BOOK-STORE\img\IMG-20241214-WA0083.jpg" alt=""></td>
+                    <td>mohamed <br> ali</td>
+                    <td>m1jf@.fo</td>
+                    <td>!</td>
+                    <td><a href="https://www.facebook.com/share/14Ngu5zuS3s/">profile</a></td>
+                </tr>
+
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="5">Total Members</td>
+                    <td>3</td>
+                </tr>
+            </tfoot>
+        </table>
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
