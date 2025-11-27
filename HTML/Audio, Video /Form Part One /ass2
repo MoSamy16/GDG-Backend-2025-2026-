@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+
+</head>
+<body>
+
+  <form action="" method="GET" target="_blank" method="post">
+  <div>
+
+  <input  type="range"  name="range" min="0" max="1000" step="10" value="400" >
+</div>
+<hr/>
+
+  </form>
+
+
+</body>
+</html>
