@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+
+</head>
+<body>
+
+  <form action="" method="GET" target="_blank" method="get">
+
+    <div>
+        <label for="user">UserName</label>
+        <input id="user" type="text" required placeholder="Your UserName" name="USERNAME" minlength="5" maxlength="20" outofocus >
+    </div>
+
+
+
+    <div>
+        <label for="em">Email</label>
+        <input id="em
+
+
+      " type="email"  placeholder="YOUR Email" name="EMAIL" value="o@o.com" readonly>
+    </div>
+    <br>
+    <div>
+        <label for="to">Token</label>
+        <input id="to" type="hidden" value="b92f1fc2fce391ad7af633723afd3055">
+      </div>
+      <br>
+
+      <div>
+    <input type="submit" value="Send Data">
+    <input type="reset" value="Empty Form" >
+    </div>
+  
+
+  </form>
+
+
+</body>
+</html>
+
+
