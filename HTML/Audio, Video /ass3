@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+
+</head>
+<body>
+    <audio controls autoplay loop >
+        <source src="C:\MY-PROJECT-BRAND-STORE\audio\25- سورة الفرقان.mp3">
+        <source src="C:\MY-PROJECT-BRAND-STORE\audio\25- سورة الفرقان.mp3">
+        <source src="C:\MY-PROJECT-BRAND-STORE\audio\25- سورة الفرقان.mp3">
+      <p>  your browser doesn't support audio</p>
+    </audio>
+    <br>
+
+</body>
+</html>
+q.4
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+
+</head>
+<body>
+
+    <video controls muted autoplay loop poster="img/Screenshot 2025-10-30 185316.png" >
+
+        <source src="C:\MY-PROJECT-BRAND-STORE\vedio\WhatsApp Video 2025-11-07 at 00.21.37_47669f3d.mp4">
+        <source src="C:\MY-PROJECT-BRAND-STORE\vedio\WhatsApp Video 2025-11-07 at 00.21.37_47669f3d.mp4">
+        <source src="C:\MY-PROJECT-BRAND-STORE\vedio\WhatsApp Video 2025-11-07 at 00.21.37_47669f3d.mp4">
+        your browser doesn't support video
+    </video>
+    <br>
+
+</body>
+</html>
