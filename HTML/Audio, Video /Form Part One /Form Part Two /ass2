@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+
+</head>
+<body>
+
+  <form action="" method="GET" target="_blank" method="get">
+
+    <div>
+        <label for="user">UserName</label>
+        <input id="user" type="text" required placeholder="Your UserName" name="USERNAME" minlength="5" maxlength="20" outofocus >
+    </div>
+
+
+
+    <div>
+        <label for="em">Email</label>
+        <input id="em
+
+
+      " type="email"  placeholder="YOUR Email" name="EMAIL" value="o@o.com" readonly>
+    </div>
+    <br>
+    <div>
+        <label for="to">Token</label>
+        <input id="to" type="hidden" value="b92f1fc2fce391ad7af633723afd3055">
+      </div>
+      <br>
+
+
+      <div>
+
+      <input id="of1" type="checkbox"  name="skills" value="Analysis">
+      <label for="of1">Analysis</label>
+      </div>
+
+      <div>
+      <input id="of2" type="checkbox"  name="skills" value="Problem Solving">
+      <label for="of2">Problem Solving</label>
+      </div>
+
+
+      <div>
+      <input id="of3" type="checkbox"  name="skills" value=" Advanced Search">
+      <label for="of3"> Advanced Search</label>
+      </div>
+
+
+      <div>
+      <input id="of4" type="checkbox"  name="skills" value="Logical Thinking">
+      <label for="of4">Logical Thinking</label>
+      </div>
+
+
+<hr/>
+
+<div>
+      <label><input type="radio" name="job" value="Back-End Developer" ><label>Back-End Developer </label>
+    </div>
+    <div>
+          <label><input type="radio" name="job" value="Front-End Developer" ><label>Front-End Developer </label>
+        </div>
+
+        <div>
+              <label><input type="radio" name="job" value="Business Analyst" ><label>Business Analyst </label>
+            </div>
+
+<hr/>
+
+      <div>
+    <input type="submit" value="Send Data">
+    <input type="reset" value="Empty Form" >
+    </div>
+
+
+  </form>
+
+
+</body>
+</html>
