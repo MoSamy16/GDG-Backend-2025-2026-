@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8"/>
+  </head>
+
+<body>
+
+<header><h1>BrandMO</h1>
+<P><h2>The best material for selling clothes</h2></p>
+<ul>
+  <h3>
+<li>  <a href="Winter prices" target="_blank" title=
+  "Go To Winter prices ">Winter prices</a></li>
+
+
+<li><a href="Summer prices" target="_blank" title=
+  "Go To Summer prices ">Summer prices</a></li>
+
+  <li> <a href="Children's prices" target="_blank" title=
+  "Go To Children's prices ">Children's prices</a></li>
+
+<li>  <a href="Women's prices" target="_blank" title=
+  "Go To Women's prices ">Women's prices</a></li>
+
+<li>  <a href="Men's prices" target="_blank" title=
+  "Go To Men's prices ">Men's prices</a></li>
+  <h3>
+</ul>
+</header>
+
+
+
+  <nav>
+    <ul>
+    <li>  <a href="Winter prices" target="_blank" title=
+      "Go To Winter prices ">Winter prices</a></li>
+
+
+    <li><a href="Summer prices" target="_blank" title=
+      "Go To Summer prices ">Summer prices</a></li>
+
+      <li> <a href="Children's prices" target="_blank" title=
+      "Go To Children's prices ">Children's prices</a></li>
+
+    <li>  <a href="Women's prices" target="_blank" title=
+      "Go To Women's prices ">Women's prices</a></li>
+
+    <li>  <a href="Men's prices" target="_blank" title=
+      "Go To Men's prices ">Men's prices</a></li>
+
+      <li>  <a href="Discounts and offers" target="_blank" title=
+        "Go To Discounts and offers ">Discounts and offers</a></li>
+      </ul>
+</nav>
+
+<hr/>
+
+<main>
+<main>
+  <p><h2>  Welcome to Brand Mo</h2><p/>
+    <p><h4>Brand MO for all types of clothes
+     and shoes with the finest types,
+     lowest prices and highest quality materials.
+   </h4>
+</p>
+</main>
+
+<img height="500"width="500" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-05 at 21.21.49_09905b62.jpg" alt="">
+
+<aside><h1>Shop content</h1>
+  <ul>
+    <li><h3>Summer T_shirts</h3></li>
+  <li><h3>Winter T_shirts</h3></li>
+  <li><h3>Jackets</h3></li>
+  <li><h3>Pants</h3></li>
+  <li><h3>SHOES</h3></li>
+  <li><h3>Bags</h3></li>
+  <li><h3>Belts</h3></li>
+</ul>
+</aside>
+<hr>
+
+
+<article>
+  <h3>The frist type<em> <h2>T_shirts</h2></em><h3>
+  <b>We have all kinds of sports and casual T-shirts,
+     with prices starting from<mark>500$</mark>
+
+<img height="200"width="200" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-06 at 00.16.40_bde100ef.jpg" alt="">
+
+
+<p><a href="test"> عرض المزيد</a></p>
+</article>
+         <hr>
+
+
+         <article>
+           <h3>The second type<em><h2> Jackets</h2></em><h3>
+           <b>We have different types of genuine leather jackets
+              with prices starting from<mark>1000$</mark>
+
+         <img height="200"width="200" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-06 at 00.16.44_886adeab.jpg" alt="">
+
+
+         <p><a href="test"> عرض المزيد</a></p>
+         </article>
+                <hr>
+
+
+
+                <article>
+                  <h3>The third type<em> <h2>Pants</h2></em><h3>
+                  <b>There are all kinds of jeans and cloth pants
+                     with prices starting from<mark>400$</mark>
+
+
+                <img height="200"width="200" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-06 at 00.16.43_a5d1ee18.jpg" alt="">
+                <p><a href="test"> عرض المزيد</a></p>
+                </article>
+                       <hr>
+
+
+                       <article>
+                         <h3>The Fourth type<em> <h2>SHOES</h2></em><h3>
+                         <b>We also have sports shoes and regular shoes
+                            with prices starting from<mark>600$</mark>
+
+                       <img height="200"width="200" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-06 at 00.16.43_efd625c1.jpg" alt="">
+
+
+                       <p><a href="test"> عرض المزيد</a></p>
+                       </article>
+                              <hr>
+
+
+
+                              <article>
+                                <h3>The Fifth type<em> <h2>Bags</h2></em><h3>
+                                <b>There are bags in the store with high quality materials
+                                   with prices starting from<mark>550$</mark>
+                  <img height="200"width="200" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-06 at 00.16.44_dec944b4.jpg" alt="">
+                              <p><a href="test"> عرض المزيد</a></p>
+                              </article>
+                                     <hr>
+
+
+
+                                     <article>
+                                       <h3>The Sixth type<em><h2> Belts</h2></em><h3>
+                   <b>There are Belts in the store with high quality materials and natural leather<u>100%</u>
+                                          with prices starting from<mark>550$</mark>
+           <img height="200"width="200" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-06 at 00.16.43_0efefa49.jpg" alt="">
+                                     <p><a href="test"> عرض المزيد</a></p>
+                                     </article>
+                                            <hr>
+</main>
+
+
+
+
+
+<footer>
+        <h5>Copyright 2026 ©</h5>
+    </footer>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
