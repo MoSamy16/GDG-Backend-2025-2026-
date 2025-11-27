@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="my first project">
+
+</head>
+<body>
+
+  <form action="" method="GET" target="_blank" method="get">
+
+    <div>
+      <label for="ur">URL</label>
+      <input type="url" id="ur" name="Url"  required/>
+    </div>
+
+<br/>
+
+    <div>
+
+      <label for="fi">file</label>
+      <input type="file" id="fi" name="file"  required/>
+    </div>
+
+
+<br/>
+<div>
+
+  <label for="se">search</label>
+  <input type="search" id="se" name="search"  required/>
+</div>
+
+<br/>
+<div>
+<label for="da">data</label>
+<input type="date" id="da" name="data"  required />
+</div>
+<br/>
+<div>
+<label for="mo">month</label>
+<input type="month" id="mo" name="month"  required/>
+</div>
+
+<br/>
+
+
+
+
+      <div>
+    <input type="submit" value="save">
+    <input type="reset" value="Empty " >
+    </div>
+
+
+  </form>
+</body>
+</html>
