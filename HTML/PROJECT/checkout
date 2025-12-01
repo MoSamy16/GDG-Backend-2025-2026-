@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Checkout</title>
+</head>
+<body>
+
+    <header>
+        <h1>Checkout</h1>
+        <nav>
+          <a href="C:\MY-PROJECT-BRAND-STORE\Index.html">Home</a> 
+        </nav>
+        <hr>
+    </header>
+
+    <main>
+      <form action="#" method="post" target="_blank">
+        <div>
+        <label for="user">UserName</label>
+        <input id="user" type="text" required placeholder="Your UserName" name="USERNAME" >
+    </div>
+    <br>
+    <div>
+        <label for="em">Email</label>
+        <input id="em
+
+
+      " type="email"  placeholder="YOUR Email" name="EMAIL">
+    </div>
+    <br>
+    <div>
+        <label for="ph">Phone</label>
+        <input id="ph" type="tel" required placeholder="Your Phone" name="PHONE" minlength="11" maxlength="11">
+      </div>
+      <br>
+
+
+
+      <div>
+        <label for="add">Your address</label>
+        <input id="add" type="text" required placeholder="القريه/المنطقه/الشارع" name="Your address in detail">
+      </div>
+      <br>
+
+<div>
+      <input type="radio" id="cash" name="card" value="Cashcard" required>
+                  <label for="cash">Cashcard</label>
+<br/>
+
+                  <input type="radio" id="del" name="card" value="card delivery">
+                  <label for="del">card delivery</label>
+      </div>
+      <br/>
+      <div>
+
+                  <button type="submit"> submit</button>
+                  <input type="reset" value="Reset" >
+      </div>
+              </form>
+          </main>
+
+
+      </body>
+      </html>
