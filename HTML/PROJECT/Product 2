@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product 2 - Mo Store</title>
+</head>
+<body>
+
+    <header>
+        <h1>Mo Store</h1>
+        <nav>
+          <a href="C:\MY-PROJECT-BRAND-STORE\Index.html">Home</a> 
+        </nav>
+    </header>
+
+    <main>
+        <h2>Product 2</h2>
+<article><h1>shoes</h1></article>
+
+<img height="400"width="400" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-06 at 00.16.43_efd625c1.jpg" alt="">
+
+
+        <p>
+We also have sports shoes and regular shoes
+        </p>
+
+        <h3>Specifications</h3>
+        <ul>
+            <li>High quality material</li>
+            <li>Durable and long-lasting</li>
+            <li>Available in multiple colors</li>
+            <li> comfortable</li>
+        </ul>
+
+        <p>
+<a href="C:\MY-PROJECT-BRAND-STORE\cart.html">add to Cart</a>
+    </main>
+</body>
+
+
+
+</html>
