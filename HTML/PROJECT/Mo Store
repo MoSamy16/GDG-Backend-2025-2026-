@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Brand Mo Store</title>
+</head>
+<body>
+
+
+    <header>
+        <h1>Mo Store</h1>
+        <nav>
+            <a href="C:\MY-PROJECT-BRAND-STORE\Index.html">Home</a> |
+            <a href="C:\MY-PROJECT-BRAND-STORE\products\product.html">Products</a> |
+            <a href="C:\MY-PROJECT-BRAND-STORE\cart.html">Cart</a> |
+            <a href="C:\MY-PROJECT-BRAND-STORE\chekout.html">Checkout</a>
+        </nav>
+    </header>
+
+
+    <section>
+        <h2>Welcome Brand to Mo Store</h2>
+        <p>The best material for selling clothes</p>
+        <p>Brand MO for all types of clothes
+         and shoes with the finest types,
+         lowest prices and highest quality materials.</p>
+         <img height="500"width="500" src="C:\MY-PROJECT-BRAND-STORE\img\WhatsApp Image 2025-11-07 at 01.16.56_8f265cc6.jpg" alt="">
+    </section>
+
+
+    <section>
+        <h2>Products</h2>
+
+        <article>
+            <h3>Product 1</h3>
+            <p>We have all kinds of sports and casual T-shirts.</p>
+
+        </article>
+
+        <article>
+            <h3>Product 2</h3>
+            <p>We also have sports shoes and regular shoes.</p>
+        </article>
+
+        <article>
+            <h3>Product 3</h3>
+            <p>There are bags in the store with high quality materials</p>
+        </article>
+
+        <article>
+            <h3>Product 4</h3>
+            <p>There are Bants in the store with high quality materials and natural leather</p>
+        </article>
+    </section>
+
+
+    <footer>
+
+      <div>
+      <h1>communication</h1>
+      <ul>
+      <li><h2>Adress</h2></li>
+      <p><h3>بنها بجوار الكورنيش الجديد <h3>
+        <li>Communication means</li>
+        <ul>
+          <li><h2>phone</h2></li>
+          <p><h2>01064767763<h2></p>
+            <br>
+            <li><h2>email</h2></li>
+            <p><h2><a href="mohamedsamyhassan22@gmail.com" target="_blank" title=
+              "Go To Email "></a>mohamedsamyhassan22@gmail.com</p>
+            </ul>
+            <li>Communication Location</li>
+            <p> <h2>يرجي المتابعه علي الحسابات التاليه </h2></p>
+            <a href="https://www.instagram.com/mohameds2my/" target="_blank" title=
+            "Go To instegram "><h1>instgram</h1></a>
+            <br>
+            <a href="https://www.facebook.com/share/14Ngu5zuS3s/" target="_blank" title=
+            "Go To facebook "><h1>facebook</h1></a>
+
+
+
+
+
+
+        <h3>Copyright 2026 ©</h3>
+    </footer>
+
+</body>
+</html>
