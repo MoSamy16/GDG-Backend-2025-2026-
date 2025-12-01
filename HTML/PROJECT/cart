@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Cart - Mo Store</title>
+</head>
+<body>
+
+
+    <header>
+        <h1> Cart</h1>
+        <nav>
+          <a href="C:\MY-PROJECT-BRAND-STORE\Index.html">Home</a> 
+        </nav>
+    </header>
+
+    <main>
+      <caption><h1>cart</h1></caption>
+
+        <table border="1" >
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>T-shirts</td>
+                    <td>$700</td>
+                    <td>1400</td>
+                    <td>$300</td>
+                </tr>
+
+                <tr>
+                    <td>shoes</td>
+                    <td>$300</td>
+                    <td>300</td>
+                    <td>$700</td>
+                </tr>
+
+                <tr>
+                    <td>bags</td>
+                    <td>$270</td>
+                    <td>500</td>
+                    <td>$330</td>
+                </tr>
+
+
+
+                <tr>
+                    <td>Bants</td>
+                    <td>$500</td>
+                    <td>333</td>
+                    <td>$900</td>
+                </tr>
+
+
+
+
+            </tbody>
+        </table>
+
+        <br>
+
+          <a href="C:\MY-PROJECT-BRAND-STORE\chekout.html">Checkout</a>
+
+    </main>
+
+
+</body>
+</html>
